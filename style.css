@@ -37,3 +37,15 @@ body {
     color: gray;
   }
   
+  li button {
+    margin-left: 10px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  li button:hover {
+    color: red;
+  }
+  
